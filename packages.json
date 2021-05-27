@@ -1,19 +1,12 @@
 {
-    "minimumVersion": 1,
-    "packages": [
-        {
-            "name": "Light Modpack",
-            "title": "Light Modpack",
-            "version": "20100223",
-            "location": "lightpack.json",
-            "priority": 1
-        },
-        {
-            "name": "Monster Modpack",
-            "title": "Monster Modpack",
-            "version": "20100223",
-            "location": "monsterpack.json",
-            "priority": 1
-        }
-    ]
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "FTB Endeavour",
+      "name" : "FTB Endeavour",
+      "version" : "2021-05-27-08-33-35",
+      "location" : "ftb-endeavour.json",
+      "priority" : 0
+    }
+  ]
 }
