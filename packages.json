@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Gregtech New Horizons 2.1.2.3qf2",
+      "name" : "Gregtech New Horizons",
+      "version" : "2022-05-31-03-21-23",
+      "location" : "gregtech-new-horizons.json",
+      "priority" : 0
+    }
+  ]
+}
